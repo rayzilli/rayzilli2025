@@ -1,3 +1,3 @@
-#Photo gallery for asmallspace.com - V2
+#Photo portfolio for rayzilli.com
 
 
