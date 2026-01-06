@@ -1,8 +1,11 @@
 import React, { useEffect, useState } from 'react';
 import './App.css';
 import { MasonryPhotoAlbum } from "react-photo-album";
+import { Routes, Route } from 'react-router-dom'; // Import Routes and Route
 import "react-photo-album/masonry.css";
 import images from "./photos.json";
+import About from './About'; // Import About component
+import Header from './Header'; 
 
 function App() {
   const [photos, setPhotos] = useState([]);
@@ -43,10 +46,18 @@ function App() {
   }
 
   return (
-    <MasonryPhotoAlbum
-      photos={photos}
-      columns={(containerWidth) => (containerWidth < 768 ? 1 : 2)}
-    />
+    <>
+    <Header/>
+    <Routes>
+      <Route path="/" element={
+        <MasonryPhotoAlbum
+          photos={photos}
+          columns={(containerWidth) => (containerWidth < 768 ? 1 : 2)}
+        />
+      } />
+      <Route path="/about" element={<About />} /> {/* About page route */}
+    </Routes>
+    </>
   );
 }
 
