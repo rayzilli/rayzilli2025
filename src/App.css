@@ -53,3 +53,34 @@
 .read-the-docs {
   color: #888;
 }
+
+
+/* App.css */
+header {
+  background-color: #F2F2EE;
+  color: rgb(28, 28, 28);
+  padding: 1rem;
+  text-align: center;
+  display:flex; 
+  justify-content: space-between;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin: 0 1rem;
+}
+
+
+.info
+{
+  margin: 2rem auto;
+  padding: 1rem;
+  text-align: left;
+  font-size: 1.1rem;
+  line-height: 1.6;
+}
