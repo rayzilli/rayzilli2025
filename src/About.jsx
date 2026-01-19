@@ -5,8 +5,8 @@ const About = () => {
   return (
     <div className='info'>
       <h2>Hello</h2>
-      <p>I am a Toronto based photographer. </p>
-      <p>For inquiries or to connect:  <a href="mailto:hello@rayzilli.com">hello@rayzilli.com.</a></p>
+      <p>Born in Windsor, working and living in Toronto Canada. </p>
+      <p>For inquiries, complaints or lost connections:  <a href="mailto:hello@rayzilli.com">hello@rayzilli.com.</a></p>
     </div>
   );
 };
