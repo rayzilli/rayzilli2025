@@ -14,6 +14,11 @@
       "filename":  "DSC3275.jpg",
       "alt": "flower meadow"
      },
+          {
+        "filename": "IMG_9515.jpg",
+        "alt":"paddle in window"
+     },
+
 
     {
       "filename": "DSC2962.jpg",
@@ -29,18 +34,11 @@
       "filename": "DSC2360.jpg",
       "alt": "walking under tree canopy"
      },
-         {
-        "filename": "IMG_9515.jpg",
-        "alt":"paddle in window"
-     },
-
+    
  
 
  
-       {
-        "filename": "DSC_0331.jpg",
-        "alt":"green car in front of green house"
-     },
+   
      {
           "filename":  "IMG_4308.jpg",
         "alt":  "window reflection water bottle propping it open"
@@ -53,20 +51,39 @@
         "filename": "DSC00697.jpg",
         "alt":  "upshot of a tree"
      },
-
+    {
+        "filename": "DSC_0331.jpg",
+        "alt":"green car in front of green house"
+     },
      {
         "filename": "IMG_3554.jpg",
         "alt":   "beach volleyball pole"
      },
-     {
-        "filename":  "IMG_6213.jpg",
-        "alt":  "bottom of sailboat on stand"
-     },
+ 
      {
         "filename":  "IMG_6494.jpg",
         "alt":  "drainage hole in wall"
      },
-      {
+     {
+       
+         "filename":  "IMG_9602.jpg",
+         "alt":  "woman sweeping driveway"
+     },
+    
+   
+       {
+         "filename":  "DSC01224.jpg",
+         "alt":  "white building blue door"
+     },    {
+         "filename":  "IMG_6332.jpg",
+         "alt":  "man in police car"
+     },
+
+         {
+        "filename":  "IMG_6213.jpg",
+        "alt":  "bottom of sailboat on stand"
+     },
+        {
         "filename":  "DSC00925.jpg",
         "alt":  "winter alley in toronto"
      },
@@ -74,11 +91,15 @@
         "filename":  "IMG_2834.jpg",
         "alt":  "baby just born"
      },
-          {
-        "filename":  "DSC09656.jpg",
-        "alt":  "green and yellow leaves against blue sky"
+     {
+        "filename":  "P8090075.jpg",
+        "alt":  "fork in the road"
      }
 
+
+        
+
+     
 
 
 
